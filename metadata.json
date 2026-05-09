@@ -1,0 +1,8 @@
+{
+  "name": "Editorial Photobooth",
+  "description": "A high-quality web-based photobooth supporting variable layouts, grain filters, Y2K date stamps, and animated GIF exports.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
